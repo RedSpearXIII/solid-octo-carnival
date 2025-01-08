@@ -8,9 +8,9 @@ const LoadingScreen = () => {
       </svg>
 
       <div className="loader-wrap-heading">
-        <span>
-          <h2>Oberon Studio</h2>
-        </span>
+        <div className="load-text">
+          <span>Oberon Studio</span>
+        </div>
       </div>
     </div>
   );
